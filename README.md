@@ -54,13 +54,17 @@ The operating system manages kernel-level threads by scheduling them, assigning 
 ## Program Execution Screenshots
 
 ### Task 1 – Single Thread
-[View Task 1 Screenshot](screenshots/task1_output.png)
+[View Task 1 Screenshot](<img width="1540" height="878" alt="task1_single_thread" src="https://github.com/user-attachments/assets/f5051358-b1af-44ed-a89f-eec46799d4e1" />
+)
 
 ### Task 2 – Multiple Threads
-[View Task 2 Screenshot](screenshots/task2_output.png)
+[View Task 2 Screenshot](<img width="1522" height="912" alt="task2_multiple_threads png" src="https://github.com/user-attachments/assets/4a145ddd-2242-4cfe-8138-9f0944467ea8" />
+)
 
 ### Task 3 – Thread Synchronization using join()
-[View Task 3 Screenshot](screenshots/task3_output.png)
+[View Task 3 Screenshot](<img width="1525" height="764" alt="task3_thread_synchronization" src="https://github.com/user-attachments/assets/89bac011-ca11-4588-9e59-a7ac8d0dc7ae" />
+)
 
 ### Task 4 – Shared Resource Management using Lock()
-[View Task 4 Screenshot](screenshots/task4_output.png)
+[View Task 4 Screenshot](<img width="1529" height="753" alt="task4_thread_lock" src="https://github.com/user-attachments/assets/4d06088d-9be9-492d-bcf0-0bc18af48789" />
+)

@@ -1,10 +1,30 @@
 
 # Threads and Multithreading Laboratory
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Student Information](#student-information)
+3. [Laboratory Description](#laboratory-description)
+4. [Learning Outcomes](#learning-outcomes)
+5. [Guide Questions and Answers](#guide-questions-and-answers)
+6. [Program Execution Screenshots](#program-execution-screenshots)
+   - [Task 1: Single Thread](#task-1-single-thread)
+   - [Task 2: Multiple Threads](#task-2-multiple-threads)
+   - [Task 3: Thread Synchronization](#task-3-thread-synchronization)
+   - [Task 4: Thread Lock](#task-4-thread-lock)
+
+---
+
+## Introduction
+
+This laboratory activity focuses on implementing threads and multithreading using Python. It demonstrates how threads are created, executed, synchronized, and managed when accessing shared resources.
+
 ## Student Information
+
 - **Name:** Princess Nashema M. Macasero
 - **Section:** B186
-- **Date:** November 18, 2026
+- **Date:** November 20, 2026
 
 ## Laboratory Description
 
@@ -17,7 +37,9 @@ This laboratory demonstrates thread creation, multithreading, thread coordinatio
 - Explain thread coordination.
 - Apply locks to protect shared resources.
 
-## VII. Guide Questions and Answers
+---
+
+## Guide Questions and Answers
 
 **1. What is the difference between a process and a thread?**
 
@@ -51,20 +73,24 @@ They can run concurrently but not truly simultaneously. The processor switches b
 
 The operating system manages kernel-level threads by scheduling them, assigning CPU time, and controlling their execution.
 
+---
+
 ## Program Execution Screenshots
 
-### Task 1 – Single Thread
-[View Task 1 Screenshot](<img width="1540" height="878" alt="task1_single_thread" src="https://github.com/user-attachments/assets/f5051358-b1af-44ed-a89f-eec46799d4e1" />
-)
+### Task 1: Single Thread
 
-### Task 2 – Multiple Threads
-[View Task 2 Screenshot](<img width="1522" height="912" alt="task2_multiple_threads png" src="https://github.com/user-attachments/assets/4a145ddd-2242-4cfe-8138-9f0944467ea8" />
-)
+[View Task 1 Screenshot](./screenshots/task1_output.png)
 
-### Task 3 – Thread Synchronization using join()
-[View Task 3 Screenshot](<img width="1525" height="764" alt="task3_thread_synchronization" src="https://github.com/user-attachments/assets/89bac011-ca11-4588-9e59-a7ac8d0dc7ae" />
-)
+### Task 2: Multiple Threads
 
-### Task 4 – Shared Resource Management using Lock()
-[View Task 4 Screenshot](<img width="1529" height="753" alt="task4_thread_lock" src="https://github.com/user-attachments/assets/4d06088d-9be9-492d-bcf0-0bc18af48789" />
-)
+[View Task 2 Screenshot](./screenshots/task2_output.png)
+
+### Task 3: Thread Synchronization
+
+[View Task 3 Screenshot](./screenshots/task3_output.png)
+
+### Task 4: Thread Lock
+
+[View Task 4 Screenshot](./screenshots/task4_output.png)
+
+---

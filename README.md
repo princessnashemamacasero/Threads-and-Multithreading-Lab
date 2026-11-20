@@ -30,6 +30,15 @@ This laboratory activity focuses on implementing threads and multithreading usin
 
 This laboratory demonstrates thread creation, multithreading, thread coordination, and shared-resource management using Python.
 
+
+## Completed Tasks
+
+1. Single Thread
+2. Multiple Threads
+3. Thread Synchronization using join()
+4. Shared Resource Management using Lock()
+
+
 ## Learning Outcomes
 
 - Create and execute threads.
@@ -75,22 +84,20 @@ The operating system manages kernel-level threads by scheduling them, assigning 
 
 ---
 
+
 ## Program Execution Screenshots
 
 ### Task 1: Single Thread
-
-[View Task 1 Screenshot](./screenshots/task1_output.png)
+[View Task 1 Screenshot](./screenshots/task1_single_thread.png)
 
 ### Task 2: Multiple Threads
-
-[View Task 2 Screenshot](./screenshots/task2_output.png)
+[View Task 2 Screenshot](./screenshots/task2_multiple_threads.png.png)
 
 ### Task 3: Thread Synchronization
-
-[View Task 3 Screenshot](./screenshots/task3_output.png)
+[View Task 3 Screenshot](./screenshots/task3_thread_synchronization.png)
 
 ### Task 4: Thread Lock
+[View Task 4 Screenshot](./screenshots/task4_thread_lock.png)
 
-[View Task 4 Screenshot](./screenshots/task4_output.png)
 
 ---
